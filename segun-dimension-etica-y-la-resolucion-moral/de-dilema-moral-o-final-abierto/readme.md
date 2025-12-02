@@ -1,5 +1,5 @@
 # 📖 La Biblioteca Mágica de Cuentos Infantiles
-## 🧠 Clasificaciones Éticas y Temporales
+## 🧠 Clasificaciones Éticas y Temporales. Segun dimensión etica y la resolución moral
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 ### Según la Dimensión Ética y la Resolución Moral
 
