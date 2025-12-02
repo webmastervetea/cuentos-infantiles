@@ -37,7 +37,7 @@ Los cuentos están organizados en carpetas principales, donde cada carpeta repre
 
 **Formato de Archivos:**
 
-Todos los cuentos están guardados preferiblemente en formato **Markdown (`.md`)** para su fácil lectura en línea y edición colaborativa, o en formato **PDF** para versiones maquetadas.
+Todos los cuentos están guardados preferiblemente en formato **Markdown (`.md`)** para su fácil lectura en línea y edición colaborativa.
 
 -----
 
@@ -49,7 +49,7 @@ Todos los cuentos están guardados preferiblemente en formato **Markdown (`.md`)
 
 1.  **Elige una Edad:** Haz clic en la carpeta principal que corresponda a la edad del niño (ej: `Cuentos_4-7_años`).
 2.  **Elige una Temática:** Dentro, selecciona la subcarpeta temática (ej: `Tematica_Amistad`).
-3.  **Abre el Cuento:** Selecciona el archivo `.md` o `.pdf` del cuento que desees leer. El formato Markdown es perfecto para leer directamente en la web, incluso desde un móvil o tableta.
+3.  **Abre el Cuento:** Selecciona el archivo `.md`  del cuento que desees leer. El formato Markdown es perfecto para leer directamente en la web, incluso desde un móvil o tableta.
 
 ### 2\. Descarga de Archivos
 
@@ -58,7 +58,7 @@ Si deseas tener los cuentos en tu dispositivo para leer sin conexión:
 1.  Navega hasta la carpeta o archivo que te interese.
 2.  Haz clic en el botón de **Descargar** (si estás viendo un archivo) o clona todo el repositorio:
     ```bash
-    git clone https://github.com/TuUsuario/Nombre-del-Repositorio.git
+    git clone https://github.com/webmastervetea/cuentos-infantiles.git
     ```
 
 -----
@@ -73,10 +73,10 @@ Si deseas tener los cuentos en tu dispositivo para leer sin conexión:
 4.  Asegúrate de que el cuento no infrinja derechos de autor.
 5.  Abre un **Pull Request (PR)** a la rama principal (`main`) de este repositorio.
 
-Por favor, consulta el archivo **[CONTRIBUCIONES.md](https://www.google.com/search?q=CONTRIBUCIONES.md)** para conocer las pautas detalladas sobre el formato de los cuentos, el estilo de escritura y el proceso de envío.
+
 
 -----
 
 ## 📜 Licencia
 
-Todos los cuentos aquí incluidos que sean obras originales o adaptaciones de dominio público están bajo la Licencia **[ELIGE TU LICENCIA, Ej: CC BY-NC 4.0]**. Por favor, revisa el archivo [LICENSE](https://www.google.com/search?q=LICENSE) para conocer los detalles exactos.
+Todos los cuentos aquí incluidos que sean obras originales o adaptaciones de dominio público están bajo la Licencia **MIT]**. Por favor, revisa el archivo [LICENSE](https://github.com/webmastervetea/cuentos-infantiles?tab=License-1-ov-file) para conocer los detalles exactos.
