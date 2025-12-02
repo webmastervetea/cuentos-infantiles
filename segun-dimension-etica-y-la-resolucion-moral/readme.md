@@ -1,7 +1,7 @@
 # 📖 La Biblioteca Mágica de Cuentos Infantiles
 ## 🧠 Clasificaciones Éticas y Temporales
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
-### 18. Según la Dimensión Ética y la Resolución Moral
+### Según la Dimensión Ética y la Resolución Moral
 
 Esta clasificación se enfoca en cómo el cuento maneja los conceptos de bien, mal, justicia y moralidad, y si el final proporciona una conclusión moral clara:
 
