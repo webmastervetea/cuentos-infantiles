@@ -1,4 +1,6 @@
-# 📖 La Biblioteca Mágica de Cuentos Infantiles
+# 📖 La Biblioteca Mágica de Cuentos Infantiles clasificada por categorias [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
+
+* [[Según la Dimensión Ética y la Resolución Moral](https://github.com/webmastervetea/cuentos-infantiles/tree/main/segun-dimension-etica-y-la-resolucion-moral)]
 
 ## ✨ El Propósito de la Biblioteca
 
